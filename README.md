@@ -1,7 +1,7 @@
 # Sean-s_portfolio
 Analytics portfolio
 
-# Project 1: Data Analyst Salary Estimator: Project Overview
+# [Project 1: Data Analyst Salary Estimator: Project Overview](https://github.com/S12ean45/Sean-s_portfolio)
 * Created a tool that estimates data analyst salaries (MAE~ $10k) to help data analyst negotiate their income when they get a job
 * Scraped over 1000 Job descriptions from indeed using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python,excel, aws and spark.
