@@ -9,7 +9,7 @@ Analytics portfolio
 * Build a client facing API using flask
 
 
-# project 2: Movie Genre Classifier]
+# project 2: Movie Genre Classifier](https://github.com/S12ean45/Sean-s_portfolio/blob/main/images/Movie%20Genre%20Guide%20Infographic%20(1).jfif)
 for this example project i build a movie classifier to identify movies from different genres. This could be useful for someone who wants to lknow what genre a movie is in from a certain country. They could type the title of the movie and an app could serve them what genre the movie is in from different countries. This is the underlying model for building something with those capabilities.
 
 I was able to get the model to predict the movie genre with 95% accuracy after minimal tuning. For mosy of the cases this would meet the need of an end user of the app. To get these results i used transfer learning on a movie app. This created time efficiencies and solid results.
